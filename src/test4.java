@@ -7,4 +7,8 @@ public class test4 {
         System.out.println("Yeni ethodum hazir");
         System.out.println("Sepete ekle");
     }
+    private static void SepettenSil()
+    {
+        System.out.println("sepetten sil bolumu bitti");
+    }
 }
